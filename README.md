@@ -10,6 +10,7 @@ Step one was done in Matlab and step two was done in C++
 
 "training_data.csv" contains the original data: 1000 (independently) simulated price paths from a fixed model
 "training_data.vcs" contained the log return data for each of the 1000 paths
+
 "rearrange_data.csv" contains all the log return data assocaited with stock price of the day.
 
 How to run the program:
